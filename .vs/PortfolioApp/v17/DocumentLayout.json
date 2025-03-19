@@ -3,43 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\context\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\context\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\migrations\\20250318223646_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\migrations\\20250318223646_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:2:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:1:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:1:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|c:\\users\\emrec\\source\\repos\\portfolioapp\\portfolioapp\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|C:\\Users\\emrec\\source\\repos\\PortfolioApp\\portfolioapp\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC2E9B3-A724-456F-97C5-FE53B48C64E3}|PortfolioApp\\PortfolioApp.csproj|solutionrelative:portfolioapp\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 344,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +94,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioApp\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "PortfolioApp\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T01:14:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioApp\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "PortfolioApp\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T01:13:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_FeatureComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\ViewComponents\\_FeatureComponentPartial.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\ViewComponents\\_FeatureComponentPartial.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\ViewComponents\\_FeatureComponentPartial.cs",
+              "RelativeToolTip": "PortfolioApp\\ViewComponents\\_FeatureComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T01:11:29.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioApp\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "PortfolioApp\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T22:50:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "PortfolioApp\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:48:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250318223646_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Migrations\\20250318223646_mig1.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\Migrations\\20250318223646_mig1.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\Migrations\\20250318223646_mig1.cs",
+              "RelativeToolTip": "PortfolioApp\\Migrations\\20250318223646_mig1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:36:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Context\\PortfolioContext.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Context\\PortfolioContext.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Context\\PortfolioContext.cs",
+              "RelativeToolTip": "PortfolioApp\\DAL\\Context\\PortfolioContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:01:25.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SocialMedia.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\SocialMedia.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\SocialMedia.cs",
@@ -79,33 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Message.cs",
-              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Message.cs",
-              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Message.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T01:10:36.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Contact.cs",
-              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Contact.cs",
-              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Contact.cs",
-              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Contact.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T01:07:31.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Testimonial.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Testimonial.cs",
@@ -118,20 +211,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\About.cs",
+              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:55:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Portfolio.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Portfolio.cs",
               "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Portfolio.cs",
               "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Portfolio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T01:02:58.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:07:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Message.cs",
+              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Message.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:10:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Portfolio.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Portfolio.cs",
@@ -144,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Experience.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Experience.cs",
@@ -152,12 +282,11 @@
               "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Experience.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:59:20.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:59:20.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Skill.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Skill.cs",
@@ -165,25 +294,11 @@
               "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Skill.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:57:58.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:57:58.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "About.cs",
-              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\About.cs",
-              "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\About.cs",
-              "ToolTip": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\About.cs",
-              "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\About.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:55:22.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\PortfolioApp\\PortfolioApp\\DAL\\Entities\\Feature.cs",
               "RelativeDocumentMoniker": "PortfolioApp\\DAL\\Entities\\Feature.cs",
@@ -191,8 +306,7 @@
               "RelativeToolTip": "PortfolioApp\\DAL\\Entities\\Feature.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:51:35.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:51:35.011Z"
             }
           ]
         }
