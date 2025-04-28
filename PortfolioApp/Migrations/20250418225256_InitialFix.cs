@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace PortfolioApp.Migrations
 {
     /// <inheritdoc />
-    public partial class mig1 : Migration
+    public partial class InitialFix : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -67,8 +67,8 @@ namespace PortfolioApp.Migrations
                 {
                     FeatureId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Title = table.Column<int>(type: "int", nullable: false),
-                    Description = table.Column<int>(type: "int", nullable: false)
+                    Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

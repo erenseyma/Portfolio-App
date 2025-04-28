@@ -12,8 +12,8 @@ using PortfolioApp.DAL.Context;
 namespace PortfolioApp.Migrations
 {
     [DbContext(typeof(PortfolioContext))]
-    [Migration("20250318223646_mig1")]
-    partial class mig1
+    [Migration("20250418225256_InitialFix")]
+    partial class InitialFix
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -128,11 +128,13 @@ namespace PortfolioApp.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FeatureId"));
 
-                    b.Property<int>("Description")
-                        .HasColumnType("int");
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Title")
-                        .HasColumnType("int");
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("FeatureId");
 
