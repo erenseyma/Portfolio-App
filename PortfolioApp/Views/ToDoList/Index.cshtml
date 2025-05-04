@@ -1,4 +1,4 @@
-﻿@model List<ToDoList>
+﻿@model ToDoList
 
 @{
 	ViewData["Title"] = "Index";
@@ -45,13 +45,16 @@
 										<td>@item.Date</td>
 										@if (item.Status == true)
 										{
-											<td><a href="/ToDoList/ChangeIsReadToFalse/@item.ToDoListId" class="btn btn-dark">Okunmadı olarak işaretle</a></td>
+											<td><a href="/ToDoList/ChangeToDoListToFalse/@item.ToDoListId" class="btn btn-dark">Okunmadı olarak işaretle</a></td>
 										}
 										else
 										{
-											<td><a href="/ToDoList/ChangeIsReadToTrue/@item.ToDoListId" class="btn btn-info">Okundu olarak işaretle</a></td>
+											<td><a href="/ToDoList/ChangeToDoListToTrue/@item.ToDoListId" class="btn btn-info">Okundu olarak işaretle</a></td>
 										}
 										<td><a href="/ToDoList/DeleteToDoList/@item.ToDoListId" class="btn btn-danger">Sil</a></td>
+										@(Model!=null){
+
+										}
 										<td><a href="/ToDoList/UpdateToDoList/@item.ToDoListId" class="btn btn-success">Güncelle</a></td>
 									</tr>
 								}

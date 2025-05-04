@@ -45,5 +45,19 @@ namespace PortfolioApp.Controllers
 			context.SaveChanges();
 			return RedirectToAction("Index");
 		}
-	}
+		public IActionResult ChangeToDoListToTrue(int id)
+		{
+			var value=context.ToDoLists.Find(id);
+			value.Status = true;
+			context.SaveChanges();
+			return RedirectToAction("Index");
+		}
+        public IActionResult ChangeToDoListToFalse(int id)
+        {
+            var value = context.ToDoLists.Find(id);
+            value.Status = false;
+            context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+    }
 }
